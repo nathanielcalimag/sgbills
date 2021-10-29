@@ -1,0 +1,13 @@
+<template>
+  <hr
+    class="
+      w-full
+      mx-auto
+      border-solid
+      sm:w-10/12
+      xl:w-8/12
+      2xl:w-7/12
+      border-blue-gray-300
+    "
+  />
+</template>
