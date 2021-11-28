@@ -4,7 +4,7 @@
       Developed and designed by
       <a
         class="font-medium text-blue-900"
-        href="https://github.com/nathanielcalimag/sgbills"
+        href="https://www.nathanielcalimag.com"
         target="_blank"
         rel="noopener noreferrer"
         >Nathaniel Calimag</a
@@ -27,7 +27,9 @@
     </p>
     <p class="text-xs">
       Check out my other project
-      <a class="font-semibold text-blue-800 underline" href="sgunistats.com"
+      <a
+        class="font-semibold text-blue-800 underline"
+        href="https://www.sgunistats.com"
         >sgunistats.com</a
       >
     </p>
